@@ -6,6 +6,8 @@ class Counter extends Component {
     tags: ["tag1", "tag2", "tag3"],
   };
 
+  // check
+
   styles = {
     fontSize: 12,
     fontWeight: "bold",
